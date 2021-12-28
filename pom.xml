@@ -52,5 +52,10 @@
             <artifactId>selenium-support</artifactId>
             <version>4.1.0</version>
         </dependency>
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-junit</artifactId>
+            <version>1.2.6</version>
+        </dependency>
     </dependencies>
 </project>
