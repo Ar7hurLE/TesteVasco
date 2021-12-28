@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="50.589031">
+    <testcase classname="FEATURE DE VERIFICAÇÃO" name="Verificar se o brasão do vasco encontra-se no site" time="50.589031">
+        <system-out>
+            <![CDATA[Given estamos no google.....................................................passed
+When procuramos por vasco da gama...........................................passed
+And clicamos no resultado que obtém url do site oficial.....................passed
+And entramos no site........................................................passed
+Then o brasão do Vasco deve estar lá........................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
